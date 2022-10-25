@@ -1,5 +1,5 @@
 ### DailyDevCard 
-<a href="https://app.daily.dev/vladi_rahmanov"><img src="https://api.daily.dev/devcards/bfc9958916b44ea38109e198f4bd7297.png?r=lap" width="400" alt="vladi rahmanov's Dev Card"/></a>
+<a href="https://app.daily.dev/vladi_rahmanov"><img src="https://api.daily.dev/devcards/bfc9958916b44ea38109e198f4bd7297.png?r=4oe" width="150" alt="vladi rahmanov's Dev Card"/></a>
 
 <!--
 **vrahmanov/vrahmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
