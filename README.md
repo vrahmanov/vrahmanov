@@ -1,8 +1,4 @@
 # Welcome to vrahmanov's profile
-
-<!-- Github stats -->
-![vrahmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrahmanov&theme=synthwave&show_icons=true)
-
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -11,10 +7,14 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<!-- Github stats -->
+![vrahmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrahmanov&theme=synthwave&show_icons=true)
 <a href="https://app.daily.dev/vladi_rahmanov"><img src="https://api.daily.dev/devcards/bfc9958916b44ea38109e198f4bd7297.png?r=4oe" width="200" alt="vladi rahmanov's Dev Card"/></a> 
 
+
 ## About me
-contact me ... ill tell you 
+contact me ... ill tell you
+
 <!--
 **vrahmanov/vrahmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
