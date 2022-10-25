@@ -1,9 +1,20 @@
-### DailyDevCard
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+# Welcome to vrahmanov's profile
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vladi-rahmanov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/vladi-rahmanov?trk=profile-badge">Vladi Rahmanov</a></div>
+<!-- Github stats -->
+![vrahmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrahmanov&theme=synthwave&show_icons=true)
+
+<!-- Badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <a href="https://app.daily.dev/vladi_rahmanov"><img src="https://api.daily.dev/devcards/bfc9958916b44ea38109e198f4bd7297.png?r=4oe" width="200" alt="vladi rahmanov's Dev Card"/></a> 
 
+## About me
+contact me ... ill tell you 
 <!--
 **vrahmanov/vrahmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
