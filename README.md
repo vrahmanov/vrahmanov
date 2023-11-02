@@ -12,7 +12,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <!-- Github stats -->
-![vrahmanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrahmanov&theme=synthwave&show_icons=true)
 <a href="https://app.daily.dev/vladi_rahmanov"><img src="https://api.daily.dev/devcards/bfc9958916b44ea38109e198f4bd7297.png?r=4oe" width="200" alt="vladi rahmanov's Dev Card"/></a> 
 
 
